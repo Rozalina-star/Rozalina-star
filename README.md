@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rozalina-star
-- 👀 I’m interested in money
+- 👀 I’m interested in learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 
